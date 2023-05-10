@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gatos>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Abyssinian_body_7.jpg?itok=Xleasaxh
+        </foto>
+        <nombre>Abyssinian Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/AmericanBobtail_body_6.jpg?itok=974XSSws
+        </foto>
+        <nombre>American Bobtail Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/AmericanCurlSHA_body_6.jpg?itok=wYcMRtpa
+        </foto>
+        <nombre>American Curl Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/AmericanShorthair_body_6.jpg?itok=xarDHKyX
+        </foto>
+        <nombre>American Shorthair Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/AmericanWirehair_body_6.jpg?itok=ZP9wYuPb
+        </foto>
+        <nombre>American Wirehair Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Javanese_body_6.jpg?itok=8RYn4oT9
+        </foto>
+        <nombre>Balinese-Javanese Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Bengal_body_6.jpg?itok=wPleMAcc
+        </foto>
+        <nombre>Bengal Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Birman_body_6.jpg?itok=j8Gae9SN
+        </foto>
+        <nombre>Birman Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Bombay_body_6.jpg?itok=82CXfifj
+        </foto>
+        <nombre>Bombay Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/BritishShorthair_body_6.jpg?itok=3EB_YGC3
+        </foto>
+        <nombre>British Shorthair Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Burmese_body_6.jpg?itok=F_gH69Ud
+        </foto>
+        <nombre>Burmese Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Chartruese_body_6.jpg?itok=XzfOlYKR
+        </foto>
+        <nombre>Chartreux Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/CornishRex_body_7.jpg?itok=7re__RVj
+        </foto>
+        <nombre>Cornish Rex Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/DevonRex_body_7.jpg?itok=8B8kD_q5
+        </foto>
+        <nombre>Devon Rex Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/EgyptianMau_body_7.jpg?itok=8vI7AjuG
+        </foto>
+        <nombre>Egyptian Mau Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/EuropeanBurmese_body_7.jpg?itok=o6w8edWw
+        </foto>
+        <nombre>European Burmese Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Exotic_body_6.jpg?itok=dPkmmFtW
+        </foto>
+        <nombre>Exotic Shorthair Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HavanaBrown_body_6.jpg?itok=EHX285P_
+        </foto>
+        <nombre>Havana Brown Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Himilayan_body_6.jpg?itok=c9k_RopN
+        </foto>
+        <nombre>Himalayan Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/JapaneseBobtailSHOddEyed_body_6.jpg?itok=17hjJqIN
+        </foto>
+        <nombre>Japanese Bobtail Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Korat_body_6.jpg?itok=9kbMXETu
+        </foto>
+        <nombre>Korat Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/LaPerm_body_6.jpg?itok=9A-tx_K-
+        </foto>
+        <nombre>LaPerm Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/MaineCoon_body_7.jpg?itok=ZUDtmIsc
+        </foto>
+        <nombre>Maine Coon Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/ManxSH_body_6.jpg?itok=pckG_ls2
+        </foto>
+        <nombre>Manx Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Munchkin.jpg?itok=p5PAtYpE
+        </foto>
+        <nombre>Munchkin Cat</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NorwegianForestCat_body_6.jpg?itok=RYEZJf7V
+        </foto>
+        <nombre>Norwegian Forest Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Ocitcat_body_6.jpg?itok=g92qjUKM
+        </foto>
+        <nombre>Ocicat Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/OrientalSH_body_6.jpg?itok=JQ6kO_fa
+        </foto>
+        <nombre>Oriental Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/PersianSolid_body_6.jpg?itok=N5mSCMHh
+        </foto>
+        <nombre>Persian Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Peterbald_body_6.jpg?itok=mov1ViYf
+        </foto>
+        <nombre>Peterbald Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/PixieBob_body_6.jpg?itok=uT78XE22
+        </foto>
+        <nombre>Pixiebob Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/RagaMuffin_body_7.jpg?itok=H0WRLvC3
+        </foto>
+        <nombre>Ragamuffin Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Ragdoll_240x240%20%281%29.jpg?itok=Gkl4BB4i
+        </foto>
+        <nombre>Ragdoll Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/RussianBlue_body_7.jpg?itok=M22dbAGd
+        </foto>
+        <nombre>Russian Blue Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Savannah_body_7.jpg?itok=X0XiOA0y
+        </foto>
+        <nombre>Savannah Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SchottishFoldLH_body_7.jpg?itok=9D_VXtm9
+        </foto>
+        <nombre>Scottish Fold Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SelkirkRex_body_7.jpg?itok=STbvVR6c
+        </foto>
+        <nombre>Selkirk Rex Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Siamese_body_7.jpg?itok=WW-Xx-Fx
+        </foto>
+        <nombre>Siamese Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Siberian_body_6.jpg?itok=h2_b_qR4
+        </foto>
+        <nombre>Siberian Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Singapura_body_7.jpg?itok=3gAE8gtk
+        </foto>
+        <nombre>Singapura Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Somali_body_7.jpg?itok=K1p0KuJ4
+        </foto>
+        <nombre>Somali Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Sphynx_body_7.jpg?itok=7D82tscd
+        </foto>
+        <nombre>Sphynx Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Tonkinese_body_7.jpg?itok=jM8CIygD
+        </foto>
+        <nombre>Tonkinese Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Toyger_body_7.jpg?itok=v_9StF0z
+        </foto>
+        <nombre>Toyger Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TurkishAngora_body_7.jpg?itok=Cx8X4qRH
+        </foto>
+        <nombre>Turkish Angora Cat Breed</nombre>
+    </gato>
+    <gato>
+        <foto>
+            https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TurkishVan_body_7.jpg?itok=-JsVJtnt
+        </foto>
+        <nombre>Turkish Van Cat Breed</nombre>
+    </gato>
+</gatos>
