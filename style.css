@@ -1,8 +1,21 @@
 @media only screen and (min-width: 992px) {
-    .navbar .navbar-nav .nav-item .nav-link {
+    .primer-nivel-nav .navbar-nav .nav-item .nav-link {
       padding: 0 0.5em;
     }
-    .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+    .primer-nivel-nav .navbar-nav .nav-item:not(:last-child) .nav-link {
       border-right: 2px solid #ffffff;
     }
+  }
+
+  .my-lg-sufi {
+    /* large margin with rem units*/
+    margin: 8em 0;
+  }
+
+  .ms-sufi {
+    margin-left: 10em;
+  }
+
+  .bg-rosa {
+    background-color: #f5f1e5;
   }
